@@ -1,0 +1,23 @@
+{
+    "workbench.colorTheme": "City Lights",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontFamily": "SF Mono",
+    "editor.fontSize": 14,
+    "editor.fontLigatures": true,
+    "editor.minimap.enabled": false,
+    "editor.rulers": [
+        120
+    ],
+    "editor.formatOnSave": true,
+    "explorer.openEditors.visible": 0,
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/node_modules": true
+    },
+    "eslint.alwaysShowStatus": true,
+    "editor.tabSize": 2
+}

@@ -1,13 +1,11 @@
 {
-    "workbench.colorTheme": "City Lights",
+    "workbench.colorTheme": "Material Theme Palenight",
     "workbench.iconTheme": "material-icon-theme",
     "editor.fontFamily": "SF Mono",
     "editor.fontSize": 14,
     "editor.fontLigatures": true,
     "editor.minimap.enabled": false,
-    "editor.rulers": [
-        120
-    ],
+    "editor.rulers": [80],
     "editor.formatOnSave": true,
     "explorer.openEditors.visible": 0,
     "files.exclude": {

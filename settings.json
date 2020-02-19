@@ -1,21 +1,32 @@
 {
-    "workbench.colorTheme": "Material Theme Palenight",
-    "workbench.iconTheme": "material-icon-theme",
-    "editor.fontFamily": "SF Mono",
-    "editor.fontSize": 14,
-    "editor.fontLigatures": true,
-    "editor.minimap.enabled": false,
-    "editor.rulers": [80],
-    "editor.formatOnSave": true,
-    "explorer.openEditors.visible": 0,
-    "files.exclude": {
-        "**/.git": true,
-        "**/.svn": true,
-        "**/.hg": true,
-        "**/CVS": true,
-        "**/.DS_Store": true,
-        "**/node_modules": true
-    },
-    "eslint.alwaysShowStatus": true,
-    "editor.tabSize": 2
+  "python.formatting.provider": "none",
+  "editor.fontFamily": "Fira Code",
+  "editor.fontSize": 14.5,
+  "editor.fontWeight": "normal",
+  "editor.lineHeight": 26,
+  "editor.fontLigatures": true,
+  "editor.minimap.enabled": false,
+  "editor.tabSize": 2,
+  "editor.rulers": [
+    80
+  ],
+  "editor.formatOnSave": true,
+  "workbench.editor.limit.enabled": true,
+  "workbench.editor.limit.value": 4,
+  "workbench.iconTheme": "file-icons",
+  "workbench.colorTheme": "Field Lights",
+  "explorer.openEditors.visible": 0,
+  "window.menuBarVisibility": "toggle",
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/node_modules": true,
+    "**/__pycache__/**": true
+  },
+  "eslint.alwaysShowStatus": true,
+  "terminal.integrated.rendererType": "dom",
+  "discord.workspaceElapsedTime": true
 }
